@@ -1,5 +1,7 @@
 # GLOF-Sensitive-Areas
-A Glacier Lake Outburst Flood (GLOF) early warning system using Python, Pandas, Seaborn, Matplotlib, and Scikit-Learn. Analyzes environmental data, detects anomalies with Isolation Forest, and visualizes risk zones for proactive disaster mitigation.
+aims to find anomoly regions based on factors like snow albedo, dew point etc.
+
+Data was taken from: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview
 
 This is part of the GLOF prediction for SIH 2024.
 Team: Hugs For Bugs
